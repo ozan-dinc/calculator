@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\bin\Debug\net6.0\Hesap_Makinesi_Çalışmam.exe
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\bin\Debug\net6.0\Hesap_Makinesi_Çalışmam.deps.json
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\bin\Debug\net6.0\Hesap_Makinesi_Çalışmam.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\bin\Debug\net6.0\Hesap_Makinesi_Çalışmam.dll
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\bin\Debug\net6.0\Hesap_Makinesi_Çalışmam.pdb
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.dll
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\refint\Hesap_Makinesi_Çalışmam.dll
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.pdb
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\Hesap_Makinesi_Çalışmam.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C#\Hesap_Makinesi_Çalışmam\Hesap_Makinesi_Çalışmam\obj\Debug\net6.0\ref\Hesap_Makinesi_Çalışmam.dll
